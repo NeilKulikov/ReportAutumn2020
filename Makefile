@@ -7,7 +7,6 @@ all:
 
 tex:
 	make aux
-	#make ref
 	biber main
 	make fin
 	make fin
@@ -22,7 +21,11 @@ fin:
 	xelatex main.tex
 
 clean:
-	echo "clean"
+	make dump
+	git rm -rf *.pdf 
+
+dump:
+	git rm -rf `git ls-files -i --exclude-from=.gitignore`
 
 view:
 	open main.pdf

@@ -1,5 +1,6 @@
 *.gz
 *.fdb
+*.out
 *.fdb_latexmk
 *.fls
 *.log
@@ -8,5 +9,7 @@
 *.blg
 *.aux
 *.bcf
+*.xml
+*.run.*
 *.synctex.*
 */.vscode/*

@@ -22,10 +22,9 @@ fin:
 
 clean:
 	make dump
-	git rm -rf *.pdf 
 
 dump:
-	git rm -rf `git ls-files -i --exclude-from=.gitignore`
+	git ls-files -i --exclude-from=.gitignore | xargs git rm -rf
 
 view:
 	open main.pdf

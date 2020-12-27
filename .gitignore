@@ -7,5 +7,6 @@
 *.bbl
 *.blg
 *.aux
+*.bcf
 *.synctex.*
 */.vscode/*

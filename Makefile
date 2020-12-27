@@ -22,10 +22,10 @@ fin:
 
 clean:
 	git clean -nf
-	git clean -xnf
 	make dump
 
 dump:
+	git clean -xnf
 	git ls-files -i --exclude-from=.gitignore | xargs git rm -rf
 
 view:

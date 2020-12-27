@@ -21,6 +21,8 @@ fin:
 	xelatex main.tex
 
 clean:
+	git clean -nf
+	git clean -xnf
 	make dump
 
 dump:

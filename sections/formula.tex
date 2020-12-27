@@ -1,0 +1,29 @@
+\documentclass[a4paper, 14pt, russian]{extreport}
+\usepackage[utf8]{inputenc}
+
+\newcommand{\kp}{k_{+}}
+\newcommand{\km}{k_{-}}
+\newcommand{\kz}{k_{z}}
+\newcommand{\st}{S}
+\newcommand{\stp}{\overline{S}_{+}}
+\newcommand{\stm}{\overline{S}_{-}}
+\newcommand{\swp}{\widetilde{S}_{+}}
+\newcommand{\swm}{\widetilde{S}_{-}}
+\newcommand{\vep}{\varepsilon}
+\newcommand{\rmatrix}[2][0.8]{\scalebox{#1}{$\begin{bmatrix}#2\end{bmatrix}$}}
+
+\begin{document}
+\begin{equation}
+    \hat{H} =
+        \begin{bmatrix}
+            T       &   0       & -  P \kp  /\sqrt{2}   & \sqrt{2} P \kz / \sqrt{3} & P\km /\sqrt{6}        &   0       & -P\kz /\sqrt{3}   &   -P\km / \sqrt{3}\\
+            0       &   T       &   0                   &   -P\kp /\sqrt{6}         &   \sqrt{2} P\kz / \sqrt{3}    &   P\km /\sqrt{2}  &   -P\kp / \sqrt{3}    & P\kz/\sqrt{3}\\
+            -\km P/\sqrt{2} & 0 & U + V & -\stm & R &   0   & \stm / \sqrt{2}   & -\sqrt{2} R\\
+            \sqrt{2} \kz P  & -\km P /\sqrt{6}  &   -\stm^\dagger   & U-V   &   C   &   R   & \sqrt{2} V & -\sqrt{3} \swm /\sqrt{2}\\
+            \kp P /\sqrt{6} & \sqrt{2} \kz P /\sqrt{3}  & R^\dagger & C^\dagger & U - V & \stp^\dagger  & - \sqrt{3} \swp /\sqrt{2} & - \sqrt{2} V\\
+            0   &   \kp P /\sqrt{2} & 0 & R^\dagger & \stp  & U+V   & \sqrt{2} R^\dagger    & \stp/\sqrt{2}\\
+            -\kz P /\sqrt{3}    & - \km P / \sqrt{3}    & \stm^\dagger /\sqrt{2}    & \sqrt{2} V    & - \sqrt{3} \stp^\dagger /\sqrt{2} & \sqrt{2} R    & U - \Delta    & C\\
+            -\kp P /\sqrt{3}    & \kz P /\sqrt{3}   & - \sqrt{2} R^\dagger  & -\sqrt{3} \stm^\dagger /\sqrt{2}  & -\sqrt{2} V   & \stp^\dagger /\sqrt{2}    & C^\dagger & U - \Delta
+        \end{bmatrix}
+\end{equation} 
+\end{document}

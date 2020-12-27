@@ -1,0 +1,1495 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AkimaSplines}{article}{}
+      \name{author}{1}{}{%
+        {{hash=416a0f15decd421235aeeaa0e45ebb2e}{%
+           family={Akima},
+           familyi={A\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \strng{fullhash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \strng{bibnamehash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \strng{authorbibnamehash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \strng{authornamehash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \strng{authorfullhash}{416a0f15decd421235aeeaa0e45ebb2e}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the ACM (JACM)}
+      \field{title}{A new method of interpolation and smooth curve fitting based on local procedures}
+      \field{year}{1970}
+      \true{nocite}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{589\bibrangedash 602}
+      \range{pages}{14}
+      \field{volume}{17}
+      \range{volume}{1}
+    \endentry
+    \entry{SucApprAnd}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9fca64695ff4547d018e9b246273763c}{%
+           family={Andreev},
+           familyi={A\bibinitperiod},
+           given={AD},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a8d4ab494f6385156059d430afe535e3}{%
+           family={O’Reilly},
+           familyi={O\bibinitperiod},
+           given={Eoin\bibnamedelima P},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP}%
+      }
+      \strng{namehash}{9e6db7fc81588836301cebfe3d3e115f}
+      \strng{fullhash}{9e6db7fc81588836301cebfe3d3e115f}
+      \strng{bibnamehash}{9e6db7fc81588836301cebfe3d3e115f}
+      \strng{authorbibnamehash}{9e6db7fc81588836301cebfe3d3e115f}
+      \strng{authornamehash}{9e6db7fc81588836301cebfe3d3e115f}
+      \strng{authorfullhash}{9e6db7fc81588836301cebfe3d3e115f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied physics letters}
+      \field{title}{Theoretical study of Auger recombination in a GaInNAs 1.3 $\mu$ m quantum well laser structure}
+      \field{year}{2004}
+      \true{nocite}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1826\bibrangedash 1828}
+      \range{pages}{3}
+      \field{volume}{84}
+      \range{volume}{1}
+    \endentry
+    \entry{Intro7}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7636b0e3e29b2c02bae043190538ca66}{%
+           family={Anwar},
+           familyi={A\bibinitperiod},
+           given={Mehdi\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f28f76344ae9594aa32a90d900717c94}{%
+           family={Crowe},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=60aa32e720a714915c369e73e588fdf8}{%
+           family={Manzur},
+           familyi={M\bibinitperiod},
+           given={Tariq},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8682def5e5aa31b909d0f498776284cd}
+      \strng{fullhash}{8682def5e5aa31b909d0f498776284cd}
+      \strng{bibnamehash}{8682def5e5aa31b909d0f498776284cd}
+      \strng{authorbibnamehash}{8682def5e5aa31b909d0f498776284cd}
+      \strng{authornamehash}{8682def5e5aa31b909d0f498776284cd}
+      \strng{authorfullhash}{8682def5e5aa31b909d0f498776284cd}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. of SPIE Vol}
+      \field{title}{Terahertz Physics, Devices, and Systems IX: Advanced Applications in Industry and Defense}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{948301\bibrangedash 1}
+      \range{pages}{1}
+      \field{volume}{9483}
+      \range{volume}{1}
+    \endentry
+    \entry{Asryan:IOP:2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87908c3d4257d9bdd28297e58879f5ab}{%
+           family={Asryan},
+           familyi={A\bibinitperiod},
+           given={Levon\bibnamedelima V},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{87908c3d4257d9bdd28297e58879f5ab}
+      \strng{fullhash}{87908c3d4257d9bdd28297e58879f5ab}
+      \strng{bibnamehash}{87908c3d4257d9bdd28297e58879f5ab}
+      \strng{authorbibnamehash}{87908c3d4257d9bdd28297e58879f5ab}
+      \strng{authornamehash}{87908c3d4257d9bdd28297e58879f5ab}
+      \strng{authorfullhash}{87908c3d4257d9bdd28297e58879f5ab}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantum Electronics}
+      \field{title}{Spontaneous radiative recombination and nonradiative Auger recombination in quantum-confined heterostructures}
+      \field{year}{2005}
+      \true{nocite}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{1117}
+      \range{pages}{1}
+      \field{volume}{35}
+      \range{volume}{1}
+    \endentry
+    \entry{Alymov:2018}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=d576a578dbb2d135b27a6219036d6bab}{%
+           family={Alymov},
+           familyi={A\bibinitperiod},
+           given={Georgy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=19b0afe9f4386cd8c08ced9f30ed9466}{%
+           family={Vyurkov},
+           familyi={V\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=96a89b52b5d50f096a1351b687f26c2c}{%
+           family={Ryzhii},
+           familyi={R\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=484203c3d7e968fd9c75d1549d871606}{%
+           family={Satou},
+           familyi={S\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ec93f8bc17d1382300afe0a7e48c35b4}{%
+           family={Svintsov},
+           familyi={S\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{authorbibnamehash}{3229c6ba71201e1cad3e28e21929fe54}
+      \strng{authornamehash}{3229c6ba71201e1cad3e28e21929fe54}
+      \strng{authorfullhash}{dd0b50cbc7eaa90a2f7cd833371a746b}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{month}{5}
+      \field{title}{Auger recombination in Dirac materials: A tangle of many-body effects}
+      \field{year}{2018}
+      \true{nocite}
+      \field{issue}{20}
+      \range{issue}{1}
+      \field{pages}{205411}
+      \range{pages}{1}
+      \field{volume}{97}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.97.205411
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevB.97.205411
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevB.97.205411
+      \endverb
+    \endentry
+    \entry{Rumyantsev:2019}{article}{useauthor=false}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=58cb0a00644b10d2ee34e547ed3411cb}{%
+           family={Rumyantsev},
+           familyi={R\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=fbaab99947d98cbadb4c68ec96f15cd3}{%
+           family={Fadeev},
+           familyi={F\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod}}}%
+        {{hash=60da866f5d71cb1cb045ce630e4547d4}{%
+           family={Aleshkin},
+           familyi={A\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6708a9c4009e2e40d80859d5026e68f4}{%
+           family={Kulikov},
+           familyi={K\bibinitperiod},
+           given={Nikita},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c9207578f88c5f83c3657be6c232cebe}{%
+           family={Utochkin},
+           familyi={U\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ef3fc490dda8b89174f7dab00dd97903}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={Nikolai},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5095b5fe9ab0e23c37ac7f62326c8b5d}{%
+           family={Dvoretskii},
+           familyi={D\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=acfd9a9e2dadd5e9fae899ef7ff0a727}{%
+           family={Pavlov},
+           familyi={P\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=651359b6a124f6522660ab467b76db7d}{%
+           family={H{ü}bers},
+           familyi={H\bibinitperiod},
+           given={Heinz-Wilhelm},
+           giveni={H\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=bf28ecbe7b6a8ed59dc66a8d8e5bfc7e}{%
+           family={Gavrilenko},
+           familyi={G\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{authorbibnamehash}{022b7d9baad6d57be2de6997fd2ec749}
+      \strng{authornamehash}{022b7d9baad6d57be2de6997fd2ec749}
+      \strng{authorfullhash}{4e0945506c0e0b8eb7f6136ec801b89e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica status solidi (b)}
+      \field{title}{Carrier Recombination, Long-Wavelength Photoluminescence, and Stimulated Emission in HgCdTe Quantum Well Heterostructures}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1800546}
+      \range{pages}{1}
+    \endentry
+    \entry{AuglagOptim}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c58a1dee7a9c46aa0891197fce7bdd88}{%
+           family={Conn},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0f7a2dce8272192a8d94a50eb771914c}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={GIM},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e919e2a0cee7f313e98e8855a729b08b}{%
+           family={Toint},
+           familyi={T\bibinitperiod},
+           given={Philippe\bibnamedelima L},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{2d207731e62a9d59e7c469258c7d5010}
+      \strng{fullhash}{2d207731e62a9d59e7c469258c7d5010}
+      \strng{bibnamehash}{2d207731e62a9d59e7c469258c7d5010}
+      \strng{authorbibnamehash}{2d207731e62a9d59e7c469258c7d5010}
+      \strng{authornamehash}{2d207731e62a9d59e7c469258c7d5010}
+      \strng{authorfullhash}{2d207731e62a9d59e7c469258c7d5010}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LANCELOT: a Fortran package for large-scale nonlinear optimization (Release A)}
+      \field{year}{2013}
+      \true{nocite}
+      \field{volume}{17}
+      \range{volume}{1}
+    \endentry
+    \entry{Dierckx}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9f3247b57b71d025bca63a8f8a1386ae}{%
+           family={Dierckx},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \strng{fullhash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \strng{bibnamehash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \strng{authorbibnamehash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \strng{authornamehash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \strng{authorfullhash}{9f3247b57b71d025bca63a8f8a1386ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curve and surface fitting with splines}
+      \field{year}{1995}
+      \true{nocite}
+    \endentry
+    \entry{Intro9}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f83ab54c3ed042983d913174e59f837}{%
+           family={Dimmock},
+           familyi={D\bibinitperiod},
+           given={JO},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5407071de26dfeb9ac432664fae0f8f5}{%
+           family={Melngailis},
+           familyi={M\bibinitperiod},
+           given={Ivars},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5716580822f79ac9b82198c6f148ebfd}{%
+           family={Strauss},
+           familyi={S\bibinitperiod},
+           given={AJ},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \strng{fullhash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \strng{bibnamehash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \strng{authorbibnamehash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \strng{authornamehash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \strng{authorfullhash}{0de750e2f68d7c04c89a9d9cbae28929}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{title}{Band structure and laser action in Pb x Sn 1- x Te}
+      \field{year}{1966}
+      \true{nocite}
+      \field{number}{26}
+      \range{number}{1}
+      \field{pages}{1193}
+      \range{pages}{1}
+      \field{volume}{16}
+      \range{volume}{1}
+    \endentry
+    \entry{SucApprAgr}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a3e559318f2e6bd5e8a01c2508dd61e4}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Niloy\bibnamedelima K},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \strng{fullhash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \strng{bibnamehash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \strng{authorbibnamehash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \strng{authornamehash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \strng{authorfullhash}{a3e559318f2e6bd5e8a01c2508dd61e4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technical Digest., International Electron Devices Meeting}
+      \field{title}{Long wavelength semiconductor lasers}
+      \field{year}{1988}
+      \true{nocite}
+      \field{pages}{304\bibrangedash 306}
+      \range{pages}{3}
+    \endentry
+    \entry{Rumyantsev:IOP:2018}{article}{useauthor=false}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=53d36fd7af2228cb9bd88578d9c15634}{%
+           family={Rumyantsev},
+           familyi={R\bibinitperiod},
+           given={VV},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9925bb0c0cecfa5349728feef3a48cff}{%
+           family={Kulikov},
+           familyi={K\bibinitperiod},
+           given={NS},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ae5ca989db166a0b421970b3fb610a80}{%
+           family={Kadykov},
+           familyi={K\bibinitperiod},
+           given={AM},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b300ce38f50ff16f71e3106cb294bf1b}{%
+           family={Zholudev},
+           familyi={Z\bibinitperiod},
+           given={MS},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b3607ce09a4ce1df8e9bfe234b518cd}{%
+           family={Fadeev},
+           familyi={F\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b04d6834ab5348cc92f2c213c388411d}{%
+           family={Aleshkin},
+           familyi={A\bibinitperiod},
+           given={V\bibnamedelima Ya},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=e1ad32376712edb25443168e875278bb}{%
+           family={Winnerl},
+           familyi={W\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cac6bb864cb227003538b31fe5e8d6a7}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={NN},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0ac9f41705d8c5557eda0df89e86d6ec}{%
+           family={Dvoretskii},
+           familyi={D\bibinitperiod},
+           given={SA},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3cc73627dad2a16d03cc8abaae3e22ff}{%
+           family={Gavrilenko},
+           familyi={G\bibinitperiod},
+           given={VI},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{authorbibnamehash}{b2b075432321a10f9566f1a314a5e2c6}
+      \strng{authornamehash}{b2b075432321a10f9566f1a314a5e2c6}
+      \strng{authorfullhash}{e43f5d2e46f0001fd7cfc5aa5cdad33f}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{title}{HgCdTe based quantum well heterostructures for long-wavelength lasers operating in 5-15 THz range}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{012126}
+      \range{pages}{1}
+      \field{volume}{1092}
+      \range{volume}{1}
+    \endentry
+    \entry{Varavin:2003}{article}{useauthor=false}
+      \name{author}{9}{}{%
+        {{hash=49911cfff9e4773c54da28c4840ea383}{%
+           family={Varavin},
+           familyi={V\bibinitperiod},
+           given={Vasily\bibnamedelima S},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=79519418939f00e5f32e47e5e0a11bdb}{%
+           family={Vasiliev},
+           familyi={V\bibinitperiod},
+           given={VV},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a534fd1cebfedeacce3700c803472727}{%
+           family={Dvoretsky},
+           familyi={D\bibinitperiod},
+           given={Sergey\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e26f6eaf79ef700a23221fc7d2dc9650}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={Nikolay\bibnamedelima N},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=4e61e1822e6a1b357426b13a88cdfaa9}{%
+           family={Ovsyuk},
+           familyi={O\bibinitperiod},
+           given={Victor\bibnamedelima N},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=484182cc318ad16937feaaa01123c398}{%
+           family={Sidorov},
+           familyi={S\bibinitperiod},
+           given={Yuri\bibnamedelima G},
+           giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d21955fde31028e7927c368a12f70141}{%
+           family={Suslyakov},
+           familyi={S\bibinitperiod},
+           given={AO},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b69a3e84b8f90771f150a1689fab618}{%
+           family={Yakushev},
+           familyi={Y\bibinitperiod},
+           given={MV},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e7c0e3e5f3b484ddc649784325b99ce}{%
+           family={Aseev},
+           familyi={A\bibinitperiod},
+           given={Alexander\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{authorbibnamehash}{32540a610eb773979c5c91bca767768a}
+      \strng{authornamehash}{32540a610eb773979c5c91bca767768a}
+      \strng{authorfullhash}{397a81c42d3aa5bef110f28b4b444ba4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solid State Crystals 2002: Crystalline Materials for Optoelectronics}
+      \field{title}{HgCdTe epilayers on GaAs: growth and devices}
+      \field{year}{2003}
+      \true{nocite}
+      \field{pages}{381\bibrangedash 396}
+      \range{pages}{16}
+      \field{volume}{5136}
+      \range{volume}{1}
+    \endentry
+    \entry{NLopt}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f271cef1e5ae0aff0d07deccf21fd368}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Steven\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \strng{fullhash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \strng{bibnamehash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \strng{authorbibnamehash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \strng{authornamehash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \strng{authorfullhash}{f271cef1e5ae0aff0d07deccf21fd368}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The NLopt nonlinear-optimization package}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://github.com/stevengj/nlopt
+      \endverb
+      \verb{url}
+      \verb http://github.com/stevengj/nlopt
+      \endverb
+    \endentry
+    \entry{Kane:Band:1957}{article}{}
+      \name{author}{1}{}{%
+        {{hash=532b626fe9c6b4ca4c7c606d5ddcc8b5}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={Evan\bibnamedelima O},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \strng{fullhash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \strng{bibnamehash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \strng{authorbibnamehash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \strng{authornamehash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \strng{authorfullhash}{532b626fe9c6b4ca4c7c606d5ddcc8b5}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics and Chemistry of Solids}
+      \field{title}{Band structure of indium antimonide}
+      \field{year}{1957}
+      \true{nocite}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{249\bibrangedash 261}
+      \range{pages}{13}
+      \field{volume}{1}
+      \range{volume}{1}
+    \endentry
+    \entry{Zholudev:Magnet:2012}{article}{useauthor=false}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=1f722bcb0c6d2ae438a37a14278751f9}{%
+           family={Zholudev},
+           familyi={Z\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e8261e38b7635adbafd678345fc45fb4}{%
+           family={Teppe},
+           familyi={T\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod}}}%
+        {{hash=120b6a4f123c86308215db53c15ec16f}{%
+           family={Orlita},
+           familyi={O\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f476013a00be1297bf2d7a0b98c75c1a}{%
+           family={Consejo},
+           familyi={C\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=078567407aeca6c34c23d972daa0915a}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ad4e746757a90344fd7b22327758307}{%
+           family={Dyakonova},
+           familyi={D\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=66c638ef9356314c949ff40134fca782}{%
+           family={Czapkiewicz},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f8fd0ce62939d4b5239d812dd0db02f}{%
+           family={Wr{ó}bel},
+           familyi={W\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0ae8d1bdd11566aef68290c1cba21605}{%
+           family={Grabecki},
+           familyi={G\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2aaec56bb2633cc02d5529724262bfd8}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{authorbibnamehash}{e209b07e8d8e2ad7b8d4b5548c2068ec}
+      \strng{authornamehash}{e209b07e8d8e2ad7b8d4b5548c2068ec}
+      \strng{authorfullhash}{878022d12cd048246e81884f42dbcb78}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{Magnetospectroscopy of two-dimensional HgTe-based topological insulators around the critical thickness}
+      \field{year}{2012}
+      \true{nocite}
+      \field{number}{20}
+      \range{number}{1}
+      \field{pages}{205420}
+      \range{pages}{1}
+      \field{volume}{86}
+      \range{volume}{1}
+    \endentry
+    \entry{Novik:2005}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=b46eb557c585fc90a58fb9fa93b6ce1c}{%
+           family={Novik},
+           familyi={N\bibinitperiod},
+           given={E.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1b967c705acbf33ce61187901499a89e}{%
+           family={Pfeuffer-Jeschke},
+           familyi={P\bibinithyphendelim J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e57ae30580d8854eecf61da9706dfbc}{%
+           family={Jungwirth},
+           familyi={J\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0b3a888adbe11d40d9e6441b94ba9b5e}{%
+           family={Latussek},
+           familyi={L\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3776beb8b1d61bc82937c8c18f09b0e9}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bc660d1c2797881bcb806ab38556be15}{%
+           family={Landwehr},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1700f247c6dcc87d8ed88f891dd28959}{%
+           family={Buhmann},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e34c40201195ceeef8cc4a59338fe2f1}{%
+           family={Molenkamp},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{authorbibnamehash}{76f7c0e1e334e4fa739cb4209e9a2faf}
+      \strng{authornamehash}{76f7c0e1e334e4fa739cb4209e9a2faf}
+      \strng{authorfullhash}{0c4d1bbc51f0fafc49d7f027f110225c}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labeltitlesource}{title}
+      \field{heading}{Novik, E. G.}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Band structure of semimagnetic Hg$_{1-y}$Mn$_y$Te quantum wells}
+      \field{year}{2005}
+      \true{nocite}
+      \field{issue}{3}
+      \range{issue}{1}
+      \field{pages}{035321}
+      \range{pages}{1}
+      \field{volume}{72}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.72.035321
+      \endverb
+      \verb{urlraw}
+      \verb http://link.aps.org/doi/10.1103/PhysRevB.72.035321
+      \endverb
+      \verb{url}
+      \verb http://link.aps.org/doi/10.1103/PhysRevB.72.035321
+      \endverb
+      \keyw{autoref}
+    \endentry
+    \entry{AugerDiagrams}{article}{}
+      \name{author}{3}{}{%
+        {{hash=89d12d0c14561897e34744772216cdea}{%
+           family={Steiauf},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=687fe2f64c5410ad46fda0b902d620d4}{%
+           family={Kioupakis},
+           familyi={K\bibinitperiod},
+           given={Emmanouil},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cb072ba65ae77c25da6b12f948002fa5}{%
+           family={Van\bibnamedelimb de\bibnamedelima Walle},
+           familyi={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Chris\bibnamedelima G},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \strng{fullhash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \strng{bibnamehash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \strng{authorbibnamehash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \strng{authornamehash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \strng{authorfullhash}{fd13fc3670e21bfd5e3e62be081004fb}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acs Photonics}
+      \field{title}{Auger recombination in GaAs from first principles}
+      \field{year}{2014}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{643\bibrangedash 646}
+      \range{pages}{4}
+      \field{volume}{1}
+      \range{volume}{1}
+    \endentry
+    \entry{Intro8}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=52a27fe6c67b7ea0230eb705d3433c5b}{%
+           family={Maremyanin},
+           familyi={M\bibinitperiod},
+           given={KV},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2dc84d73e3c3f175ca6be7c1ae5795d0}{%
+           family={Ikonnikov},
+           familyi={I\bibinitperiod},
+           given={AV},
+           giveni={A\bibinitperiod}}}%
+        {{hash=78a5a4f220837ec149df99b2cc43081d}{%
+           family={Bovkun},
+           familyi={B\bibinitperiod},
+           given={LS},
+           giveni={L\bibinitperiod}}}%
+        {{hash=53d36fd7af2228cb9bd88578d9c15634}{%
+           family={Rumyantsev},
+           familyi={R\bibinitperiod},
+           given={VV},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0eeffaac6504653225709752d474d748}{%
+           family={Chizhevskii},
+           familyi={C\bibinitperiod},
+           given={EG},
+           giveni={E\bibinitperiod}}}%
+        {{hash=751966fa3f7ce92435b1ecc8dd32a640}{%
+           family={Zasavitskii},
+           familyi={Z\bibinitperiod},
+           given={II},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3cc73627dad2a16d03cc8abaae3e22ff}{%
+           family={Gavrilenko},
+           familyi={G\bibinitperiod},
+           given={VI},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{authorbibnamehash}{952375d92e2c0c08bcace53dd27459ff}
+      \strng{authornamehash}{952375d92e2c0c08bcace53dd27459ff}
+      \strng{authorfullhash}{007093b4379712aec87bb68d028072b7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semiconductors}
+      \field{title}{Terahertz Injection Lasers Based on a PbSnSe Solid Solution with an Emission Wavelength up to 50 $\mu$m and Their Application in the Magnetospectroscopy of Semiconductors}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{1590\bibrangedash 1594}
+      \range{pages}{5}
+      \field{volume}{52}
+      \range{volume}{1}
+    \endentry
+    \entry{MinkovValence2017}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=5dfa7956cc1102f7049db66ef9b26a7b}{%
+           family={Minkov},
+           familyi={M\bibinitperiod},
+           given={GM},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b04d6834ab5348cc92f2c213c388411d}{%
+           family={Aleshkin},
+           familyi={A\bibinitperiod},
+           given={V\bibnamedelima Ya},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=6010e6370e59fba8a8f529633a424a56}{%
+           family={Rut},
+           familyi={R\bibinitperiod},
+           given={OE},
+           giveni={O\bibinitperiod}}}%
+        {{hash=0fca685d6041c5d169133dafcff954ca}{%
+           family={Sherstobitov},
+           familyi={S\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2d1fd3c795c4452b66b15d60e942d17a}{%
+           family={Germanenko},
+           familyi={G\bibinitperiod},
+           given={AV},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e876c5f1ec2e97072df6efb5337fa86b}{%
+           family={Dvoretski},
+           familyi={D\bibinitperiod},
+           given={SA},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cac6bb864cb227003538b31fe5e8d6a7}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={NN},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{authorbibnamehash}{6181bbc3d048b6ca1c3b4297c8d9c9dc}
+      \strng{authornamehash}{6181bbc3d048b6ca1c3b4297c8d9c9dc}
+      \strng{authorfullhash}{c88bc9765f57528ca42e54d84366fb7f}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{Valence band energy spectrum of HgTe quantum wells with an inverted band structure}
+      \field{year}{2017}
+      \true{nocite}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{035310}
+      \range{pages}{1}
+      \field{volume}{96}
+      \range{volume}{1}
+    \endentry
+    \entry{Vasko:2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0d17a102ba710bd3d4c8f21c405196f2}{%
+           family={Vasko},
+           familyi={V\bibinitperiod},
+           given={Fedir\bibnamedelima T},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=54d3a975f6ff30cc3a21cb54f5a46513}{%
+           family={Raichev},
+           familyi={R\bibinitperiod},
+           given={Oleg\bibnamedelima E},
+           giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \strng{fullhash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \strng{bibnamehash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \strng{authorbibnamehash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \strng{authornamehash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \strng{authorfullhash}{a2f085e5378a0fcfcfa81d01cb4d7359}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum Kinetic Theory and Applications: Electrons, Photons, Phonons}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Zholudev:PRB:2012}{article}{useauthor=false}
+      \name{author}{16}{}{%
+        {{hash=1f722bcb0c6d2ae438a37a14278751f9}{%
+           family={Zholudev},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2223e1eddf7863d17978bf5f982ce939}{%
+           family={Teppe},
+           familyi={T\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=120b6a4f123c86308215db53c15ec16f}{%
+           family={Orlita},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bcbef6161c4dcb37b32333591b6be661}{%
+           family={Consejo},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=078567407aeca6c34c23d972daa0915a}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ad4e746757a90344fd7b22327758307}{%
+           family={Dyakonova},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=66c638ef9356314c949ff40134fca782}{%
+           family={Czapkiewicz},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f8fd0ce62939d4b5239d812dd0db02f}{%
+           family={Wróbel},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0ae8d1bdd11566aef68290c1cba21605}{%
+           family={Grabecki},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2aaec56bb2633cc02d5529724262bfd8}{%
+           family={Mikhailov},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a54b38ec8628380ad98df8e010f90b67}{%
+           family={Dvoretskii},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=11ce8949ec4bcf40a6aaec172df79837}{%
+           family={Ikonnikov},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=25ad757c49d0cbe2d6d31a9886c115c2}{%
+           family={Spirin},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=46c36d9f5eddd6b97629d0adfa0f1bf0}{%
+           family={Aleshkin},
+           familyi={A\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5d4e4bcdf88ceee201cd794e0757de2c}{%
+           family={Gavrilenko},
+           familyi={G\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0085257ad30a05dcf78dc66ff4a36dfd}{%
+           family={Knap},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{authorbibnamehash}{e209b07e8d8e2ad7b8d4b5548c2068ec}
+      \strng{authornamehash}{e209b07e8d8e2ad7b8d4b5548c2068ec}
+      \strng{authorfullhash}{fa5b70568d1d4302d170ba96865a24d6}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labeltitlesource}{title}
+      \field{heading}{Zholudev, M.}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{Magnetospectroscopy of two-dimensional HgTe-based topological insulators around the critical thickness}
+      \field{year}{2012}
+      \true{nocite}
+      \field{issue}{20}
+      \range{issue}{1}
+      \field{pages}{205420}
+      \range{pages}{1}
+      \field{volume}{86}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.86.205420
+      \endverb
+      \verb{urlraw}
+      \verb http://link.aps.org/doi/10.1103/PhysRevB.86.205420
+      \endverb
+      \verb{url}
+      \verb http://link.aps.org/doi/10.1103/PhysRevB.86.205420
+      \endverb
+      \keyw{own,autoref}
+    \endentry
+    \entry{AbakumovYassievich1997}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8369ff580651cda6ed7918e4de5ebf7f}{%
+           family={Абакумов},
+           familyi={А\bibinitperiod},
+           given={ВН},
+           giveni={В\bibinitperiod}}}%
+        {{hash=a9d59fdd3349fa88adeacada199c219f}{%
+           family={Перель},
+           familyi={П\bibinitperiod},
+           given={ВИ},
+           giveni={В\bibinitperiod}}}%
+        {{hash=f33de30e61af5c7e8d541cdd454f7a8c}{%
+           family={Яссиевич},
+           familyi={Я\bibinitperiod},
+           given={ИН},
+           giveni={И\bibinitperiod}}}%
+      }
+      \strng{namehash}{6abee70e534c0e87bb717f328019363e}
+      \strng{fullhash}{6abee70e534c0e87bb717f328019363e}
+      \strng{bibnamehash}{6abee70e534c0e87bb717f328019363e}
+      \strng{authorbibnamehash}{6abee70e534c0e87bb717f328019363e}
+      \strng{authornamehash}{6abee70e534c0e87bb717f328019363e}
+      \strng{authorfullhash}{6abee70e534c0e87bb717f328019363e}
+      \field{sortinit}{А}
+      \field{sortinithash}{04667a6830597c4be20b521352e0a534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Изд-во ПИЯФ, СПб}
+      \field{title}{Безызлучательная рекомбинация в полупроводниках}
+      \field{year}{1997}
+      \true{nocite}
+    \endentry
+    \entry{Aquis:Tensor:2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ffc343f22e98dc1e8932ff4d5ab2a486}{%
+           family={Акивис},
+           familyi={А\bibinitperiod},
+           given={Макс\bibnamedelima Айзикович},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=c8a4ebb7cb70ef0ed90595dfcce53603}{%
+           family={Гольдберг},
+           familyi={Г\bibinitperiod},
+           given={Владислав\bibnamedelima Викторович},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Физматлит}%
+      }
+      \strng{namehash}{2d991b88c982d547fc09dbe6013dc80b}
+      \strng{fullhash}{2d991b88c982d547fc09dbe6013dc80b}
+      \strng{bibnamehash}{2d991b88c982d547fc09dbe6013dc80b}
+      \strng{authorbibnamehash}{2d991b88c982d547fc09dbe6013dc80b}
+      \strng{authornamehash}{2d991b88c982d547fc09dbe6013dc80b}
+      \strng{authorfullhash}{2d991b88c982d547fc09dbe6013dc80b}
+      \field{sortinit}{А}
+      \field{sortinithash}{04667a6830597c4be20b521352e0a534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Тензорное исчисление}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{HgCdTeCalcZholudev}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb5587e0ab25278edf7e96bf2298afb2}{%
+           family={Жолудев},
+           familyi={Ж\bibinitperiod},
+           given={М.С.},
+           giveni={М\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IPM RAS}%
+      }
+      \strng{namehash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \strng{fullhash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \strng{bibnamehash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \strng{authorbibnamehash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \strng{authornamehash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \strng{authorfullhash}{cb5587e0ab25278edf7e96bf2298afb2}
+      \field{sortinit}{Ж}
+      \field{sortinithash}{421ac8e80c390bb3bf7742c1acfe94ac}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Терагерцовая спектроскопия квантовых ям $Hg_{1−x} Cd_x Te$/$Cd_y Hg_{1−y} Te$}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{Intro1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e84a1a832642fd1c5e6f619c1c29be49}{%
+           family={Засавицкий},
+           familyi={З\bibinitperiod},
+           given={ИИ},
+           giveni={И\bibinitperiod}}}%
+      }
+      \strng{namehash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \strng{fullhash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \strng{bibnamehash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \strng{authorbibnamehash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \strng{authornamehash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \strng{authorfullhash}{e84a1a832642fd1c5e6f619c1c29be49}
+      \field{sortinit}{З}
+      \field{sortinithash}{d4ac4dd7a20878b2b020930ce570a8eb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Труды ФИАН. Оптические и электрические свойства полупроводников}
+      \field{title}{Инфракрасная люминесценция и характеристики энергетического спектра полупроводников типа А4В6}
+      \field{year}{1993}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 118}
+      \range{pages}{116}
+      \field{volume}{224}
+      \range{volume}{1}
+    \endentry
+    \entry{Landau:Upr:1965}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2ba6831e179fb9f949cfa7eec535befe}{%
+           family={Ландау},
+           familyi={Л\bibinitperiod},
+           given={Лев\bibnamedelima Давидович},
+           giveni={Л\bibinitperiod\bibinitdelim Д\bibinitperiod}}}%
+        {{hash=8142d8fbad4145ef350e0175fe5692b3}{%
+           family={Лифшиц},
+           familyi={Л\bibinitperiod},
+           given={Евгений\bibnamedelima Михайлович},
+           giveni={Е\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nauka}%
+      }
+      \strng{namehash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \strng{fullhash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \strng{bibnamehash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \strng{authorbibnamehash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \strng{authornamehash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \strng{authorfullhash}{0bc9b0db44aa028a2bd0d3a406561d1f}
+      \field{sortinit}{Л}
+      \field{sortinithash}{c587a19f9e6070fae0de9717f3b8aaa4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Теория упругости}
+      \field{year}{1965}
+      \true{nocite}
+    \endentry
+    \entry{Kozlov:2019}{article}{useauthor=false}
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=e39b9ea7833b8d2bf1ca2600da2232f1}{%
+           family={Козлов},
+           familyi={К\bibinitperiod},
+           given={Дмитрий\bibnamedelima Владимирович},
+           giveni={Д\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=d0c160c384bfa03e2cb7047fa6d2a595}{%
+           family={Румянцев},
+           familyi={Р\bibinitperiod},
+           given={В\bibnamedelima В},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=72311d3c6e5bec3aaa872dd8e61f7190}{%
+           family={Куликов},
+           familyi={К\bibinitperiod},
+           given={Н\bibnamedelima С},
+           giveni={Н\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+        {{hash=64f4cb8c106e2cb0bb2c4a8c7b62ae23}{%
+           family={Кадыков},
+           familyi={К\bibinitperiod},
+           given={А\bibnamedelima М},
+           giveni={А\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+        {{hash=d9e092929571575ebb8951599db5c57a}{%
+           family={Фадеев},
+           familyi={Ф\bibinitperiod},
+           given={М\bibnamedelima А},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=b603eba00a1fbe2d2c98bbff6fb80cfe}{%
+           family={Уточкин},
+           familyi={У\bibinitperiod},
+           given={В\bibnamedelima В},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=db283fbae76533cd5c1e8d4c151d6cf2}{%
+           family={Михайлов},
+           familyi={М\bibinitperiod},
+           given={Н\bibnamedelima Н},
+           giveni={Н\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=0850fcb6b774145f7c452031f4150b9d}{%
+           family={Дворецкий},
+           familyi={Д\bibinitperiod},
+           given={С\bibnamedelima А},
+           giveni={С\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=8cdc6b6d37d5a5d82aa689a9ee67f07e}{%
+           family={Гавриленко},
+           familyi={Г\bibinitperiod},
+           given={В\bibnamedelima И},
+           giveni={В\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=bc811636527c1b1b87c9068d8a322379}{%
+           family={Хьюберс},
+           familyi={Х\bibinitperiod},
+           given={Г\bibnamedelima В},
+           giveni={Г\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Российская академия наук, Отделение физических наук}%
+      }
+      \strng{authorbibnamehash}{88b29996047eab785f7bf3d5cb9b827e}
+      \strng{authornamehash}{88b29996047eab785f7bf3d5cb9b827e}
+      \strng{authorfullhash}{b2278febee626c22fd55680aee00c167}
+      \field{sortinit}{О}
+      \field{sortinithash}{6794fa2410ee214a271e1e48b38141a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Письма в Журнал экспериментальной и теоретической физики}
+      \field{title}{Особенности фотолюминесценции двойных акцепторов в гетероструктурах HgTe/СdHgTe с квантовыми ямами в терагерцовом диапазоне}
+      \field{year}{2019}
+      \true{nocite}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{679\bibrangedash 684}
+      \range{pages}{6}
+      \field{volume}{109}
+      \range{volume}{1}
+    \endentry
+    \entry{MineNanophysics2020}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=9925bb0c0cecfa5349728feef3a48cff}{%
+           family={Kulikov},
+           familyi={K\bibinitperiod},
+           given={NS},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f0a4b4d6f238943fd6c838ba4db93c67}{%
+           family={Zoludev},
+           familyi={Z\bibinitperiod},
+           given={MS},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5a6cc15139d5cb75bd2291e7184617ce}{%
+           family={Utochkin},
+           familyi={U\bibinitperiod},
+           given={VV},
+           giveni={V\bibinitperiod}}}%
+        {{hash=53d36fd7af2228cb9bd88578d9c15634}{%
+           family={Rumyantsev},
+           familyi={R\bibinitperiod},
+           given={VV},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3ac1b6c954b4c96d13707e49d10d1604}{%
+           family={Morozov},
+           familyi={M\bibinitperiod},
+           given={SV},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Издательство Нижегородского госуниверситета им. Н.И. Лобачевского}%
+      }
+      \strng{authorbibnamehash}{db32932aa33c8293d091644034277ed6}
+      \strng{authornamehash}{db32932aa33c8293d091644034277ed6}
+      \strng{authorfullhash}{7d9c40499baa6b9842d34bb6b9579601}
+      \field{sortinit}{Р}
+      \field{sortinithash}{05cb2e965a41fdb34ef93bddb323e27f}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Материалы XXIV Международного симпозиума Н̈анофизика и наноэлектроника\"}
+      \field{title}{Расчёт порога оже-рекомбинации в узкозонных гетероструктурах на основе HgCdTe}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{639}
+      \range{pages}{1}
+      \field{volume}{2}
+      \range{volume}{1}
+    \endentry
+    \entry{Rumyantsev:PTS:2018}{article}{useauthor=false}
+      \name{author}{13}{}{%
+        {{hash=d0c160c384bfa03e2cb7047fa6d2a595}{%
+           family={Румянцев},
+           familyi={Р\bibinitperiod},
+           given={В.В.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=72311d3c6e5bec3aaa872dd8e61f7190}{%
+           family={Куликов},
+           familyi={К\bibinitperiod},
+           given={Н.С.},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=64f4cb8c106e2cb0bb2c4a8c7b62ae23}{%
+           family={Кадыков},
+           familyi={К\bibinitperiod},
+           given={А.М.},
+           giveni={А\bibinitperiod}}}%
+        {{hash=ba3f367caa4703297958419236b1ab85}{%
+           family={Фадеев},
+           familyi={Ф\bibinitperiod}}}%
+        {{hash=283bec702955ada1ebab5b7f0d55c305}{%
+           family={М.А.},
+           familyi={М\bibinitperiod},
+           given={А.В.},
+           giveni={А\bibinitperiod},
+           suffix={Иконников},
+           suffixi={И\bibinitperiod}}}%
+        {{hash=9fac4e0bd0f97c56564b7ba07b3dc369}{%
+           family={Казаков},
+           familyi={К\bibinitperiod},
+           given={А.С.},
+           giveni={А\bibinitperiod}}}%
+        {{hash=cb5587e0ab25278edf7e96bf2298afb2}{%
+           family={Жолудев},
+           familyi={Ж\bibinitperiod},
+           given={М.С.},
+           giveni={М\bibinitperiod}}}%
+        {{hash=a7e1583c0afd91188c7b4328e7ac1bba}{%
+           family={Алешкин},
+           familyi={А\bibinitperiod},
+           given={В.Я.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=b603eba00a1fbe2d2c98bbff6fb80cfe}{%
+           family={Уточкин},
+           familyi={У\bibinitperiod},
+           given={В.В.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=db283fbae76533cd5c1e8d4c151d6cf2}{%
+           family={Михайлов},
+           familyi={М\bibinitperiod},
+           given={Н.Н.},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=0850fcb6b774145f7c452031f4150b9d}{%
+           family={Дворецкий},
+           familyi={Д\bibinitperiod},
+           given={С.А.},
+           giveni={С\bibinitperiod}}}%
+        {{hash=43b8d3f558ec3f95a08699ea00746d95}{%
+           family={Морозов},
+           familyi={М\bibinitperiod},
+           given={С.В.},
+           giveni={С\bibinitperiod}}}%
+        {{hash=8cdc6b6d37d5a5d82aa689a9ee67f07e}{%
+           family={Гавриленко},
+           familyi={Г\bibinitperiod},
+           given={В.И.},
+           giveni={В\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{ce528e9d621ad62dd820e01009528559}
+      \strng{authornamehash}{ce528e9d621ad62dd820e01009528559}
+      \strng{authorfullhash}{6156908941b7363cbe531e459b77e54d}
+      \field{sortinit}{Р}
+      \field{sortinithash}{05cb2e965a41fdb34ef93bddb323e27f}
+      \field{labeltitlesource}{title}
+      \field{heading}{Румянцев, В.В.}
+      \field{journaltitle}{Физика и техника полупроводников}
+      \field{title}{Влияние особенностей зонного спектра на характеристики стимулированного излучения в узкозонных гетероструктурах с квантовыми ямами на основе HgCdTe}
+      \field{year}{2018}
+      \true{nocite}
+      \field{issue}{20}
+      \range{issue}{1}
+      \field{pages}{1263}
+      \range{pages}{1}
+      \field{volume}{52}
+      \range{volume}{1}
+      \keyw{own,autoref}
+    \endentry
+    \entry{Utochkin:PTS:2019}{article}{useauthor=false}
+      \name{author}{10}{}{%
+        {{hash=b603eba00a1fbe2d2c98bbff6fb80cfe}{%
+           family={Уточкин},
+           familyi={У\bibinitperiod},
+           given={В.В.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=1fdae5d3f452f7713c6196e15e4eae65}{%
+           family={Алёшкин},
+           familyi={А\bibinitperiod},
+           given={В.Я.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=72311d3c6e5bec3aaa872dd8e61f7190}{%
+           family={Куликов},
+           familyi={К\bibinitperiod},
+           given={Н.С.},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=41d0542afdbe9cd464da33e41edbdc21}{%
+           family={Дубинов},
+           familyi={Д\bibinitperiod},
+           given={А.А.},
+           giveni={А\bibinitperiod}}}%
+        {{hash=8cdc6b6d37d5a5d82aa689a9ee67f07e}{%
+           family={Гавриленко},
+           familyi={Г\bibinitperiod},
+           given={В.И.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=d9e092929571575ebb8951599db5c57a}{%
+           family={Фадеев},
+           familyi={Ф\bibinitperiod},
+           given={М.А.},
+           giveni={М\bibinitperiod}}}%
+        {{hash=d0c160c384bfa03e2cb7047fa6d2a595}{%
+           family={Румянцев},
+           familyi={Р\bibinitperiod},
+           given={В.В.},
+           giveni={В\bibinitperiod}}}%
+        {{hash=db283fbae76533cd5c1e8d4c151d6cf2}{%
+           family={Михайлов},
+           familyi={М\bibinitperiod},
+           given={Н.Н.},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=0850fcb6b774145f7c452031f4150b9d}{%
+           family={Дворецкий},
+           familyi={Д\bibinitperiod},
+           given={С.А.},
+           giveni={С\bibinitperiod}}}%
+        {{hash=43b8d3f558ec3f95a08699ea00746d95}{%
+           family={Морозов},
+           familyi={М\bibinitperiod},
+           given={С.В.},
+           giveni={С\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{b201d5f1ebd6381bec72d17b9a841a1d}
+      \strng{authornamehash}{b201d5f1ebd6381bec72d17b9a841a1d}
+      \strng{authorfullhash}{651d79f6e3fe9e59febcd7344c545b30}
+      \field{sortinit}{У}
+      \field{sortinithash}{d9965665482fab6746343817045e1007}
+      \field{labeltitlesource}{title}
+      \field{heading}{Уточкин, В.В.}
+      \field{journaltitle}{Физика и техника полупроводников}
+      \field{title}{Исследование пороговой энергии оже-рекомбинации в волноводных структурах с квантовыми ямами HgTe/Cd0.7Hg0.3Te в области 14 мкм}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

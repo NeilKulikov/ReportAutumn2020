@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[54] biber-darwin:315> INFO - === ср май 27, 2020, 18:27:48
+[95] Biber.pm:371> INFO - Reading 'main.bcf'
+[313] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[332] Biber.pm:4093> INFO - Processing section 0
+[355] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[357] bibtex.pm:1523> INFO - LaTeX decoding ...
+[420] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliography.bib'
+[518] Utils.pm:193> WARN - month field 'May' in entry 'Alymov:2018' is not an integer - this will probably not sort properly.
+[602] Utils.pm:193> WARN - month field 'Jul' in entry 'Novik:2005' is not an integer - this will probably not sort properly.
+[862] Utils.pm:193> WARN - month field 'Nov' in entry 'Zholudev:PRB:2012' is not an integer - this will probably not sort properly.
+[955] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[955] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[955] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[956] Biber.pm:3927> INFO - No sort tailoring available for locale 'ru-RU'
+[1027] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1052] bbl.pm:739> INFO - Output to main.bbl
+[1053] Biber.pm:110> INFO - WARNINGS: 3

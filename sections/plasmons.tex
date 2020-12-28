@@ -1,7 +1,7 @@
 \documentclass[../main.tex]{subfiles}
 
 \begin{document}
-    \chapter{Плазмоны}
+    \chapter{Плазмонные эффекты в HgCdTe}
     
     Плазмоны - это квазичастицы, отвечающие квантованию 
     Ленгмюровских колебаний. Они в значительной мере 
@@ -30,7 +30,13 @@
     образом они должны подчиняться уравнению связи поляризации и 
     плотности свободного заряда $\div \vec P  = - \rho$. Кроме того 
     такие колебания могут возбуждаться внешним электрическим полем, 
-    которое мы примем потенциальным $\vec E = - \grad \varphi$
+    которое мы примем потенциальным $\vec E = - \grad \varphi$ и 
+    гармоническим. Тогда оно будет давать добавку потенциальной энергии:
+    \begin{equation}
+        \label{plazmon:field}
+        \hat \varphi  = U \exp{i\vec q \vec r - i \omega t}
+            + U^{\dagger} \exp{-i\vec q\vec r + i \omega t};
+    \end{equation}
 
     В общем виде функции представляются в виде огибающей, зависящей 
     от времени и быстроосциллирующего члена. В частности:
@@ -46,7 +52,8 @@
     \ref{calculation:wf}, полученные по методике, 
     описанной в прошлой главе \ref{chapter:calcs}. 
 
-    Электрическое поле в виде \ref{} должно вызывать искажения 
+    Электрическое поле в виде \ref{plazmon:field} должно вызывать 
+    искажения 
     такой равновесной волновой функции с волновыми векторами
     $\vec k \pm \vec q$, т.e. в первом порядке малости по полю:
     \begin{equation}
@@ -186,8 +193,8 @@
     при постоянной концентрации электронов и изменяющейся концентрации дырок \ref{plasmon:6nm3neXnpim}.
 
     \begin{figure}[h]
-        \begin{minipage}[h]{0.7\textwidth}
-            \includegraphics[width=0.9\textwidth]{./images/plazmon6nm3neXnpim.pdf.pdf}
+        \begin{minipage}[h]{1\textwidth}
+            \includegraphics[width=1\textwidth]{./images/plazmon6nm3neXnpim.pdf}
             \caption{Мнимая часть частоты в зависимости от волнового вектора, при $N_e = 3 \cdot 10^{11}~\text{cm}^{-2},~N_h = x \cdot 10^{10}~\text{cm}^{-2}$,
             где $x$ указан на графике.\label{plasmon:6nm3neXnpim}}
         \end{minipage}

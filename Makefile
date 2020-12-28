@@ -1,8 +1,8 @@
 exts = main.tex | main.pdf | Makefile | bibliography.bib
 
 all:
-	make tex
 	make clean
+	make tex
 	make view
 
 tex:

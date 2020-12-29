@@ -1,5 +1,7 @@
 \documentclass[../main.tex]{subfiles}
 
+\newcommand{\rot}{\text{rot}}
+
 \begin{document}
     \chapter{Плазмонные эффекты в HgCdTe}
     
@@ -7,6 +9,76 @@
     Ленгмюровских колебаний. Они в значительной мере 
     определяют оптические свойства материалов, в том числе 
     гетероструктур на основе $Hg_xCd_{1-x}Te$.
+
+    \section{Электродинамические свойства двумерных плазмонов}
+
+    Рассмотрим свойства плазмонов, в предположении, что ток,
+    соответствующий им локализован в квантовой яме и течет только
+    в плоскости. Аппроксимация $\delta$ функцией является 
+    справедливой, поскольку характерная длина волны имеет порядок 
+    единиц $ёьг\text{m}$, a толщина квантовой ямы - порядок единиц 
+    $\text{nm}$. Тогда из уравнений Максвелла:
+    \begin{equation}
+        \rot \vec H = \frac{\varepsilon}{c} \dot{\vec E} + \delta(z) \vec j;
+    \end{equation}
+
+    Предположим, что ток обусловлен исключительно электрическим полем
+    $\vec j  = \sigma \vec E$ и сделаем предположения о направлениях 
+    $\vec j \parallel \vec E \parallel \vec{x}_0, \vec H \parallel \vec{y}_0$.
+    Распишем покомпонентно:
+    \begin{equation}
+        \begin{aligned}
+            \partial_x H_y &=& \frac{\varepsilon}{c} \dot{E}_z;
+            -\partial_z H_y &=& \frac{\varepsilon}{c} \dot{E}_x + \frac{4\pi };
+        \end{aligned}
+    \end{equation}
+
+    Принимая во внимание уравнение на электрическое поле:
+    \begin{equation}
+        \rot \vec E = \frac{1}{c} \dot \vec H;
+    \end{equation}
+
+    Сделаем его Фурье преобразование в плоскости квантовой ямы
+    и получим замкнутую систему уравнений:
+    \begin{equation}
+        \left\{
+        \begin{aligned}
+            - i \frac{\omega}{c} H_y &=& i k E_z - \partial_z E_x;\\
+            - \partial_z H_y  &=& \frac{4\pi}{c} \underbrace{\sigma E_x}_{\vec j} 
+            - i \varepsilon  \frac{\omega}{c} E_x;\\
+            ik H_y  &=& - i \varepsilon \frac{\omega}{c} E_z;
+        \end{aligned}
+        \right.
+    \end{equation}
+
+    Решая её получим уравнение на зависимость поля от $z$:
+    \begin{equation}
+        \frac{\partial^2 E_x}{\partial z^2} = \frac{4\pi i}{\varepsilon \omega}
+        \underbrace{\left(k^2  - \varepsilon \frac{\omega^2}{c^2}\right)}_{q^2} \sigma E_x \delta(z)
+        + \underbrace{\left(k^2  - \varepsilon \frac{\omega^2}{c^2}\right)}_{q^2} E_x;
+    \end{equation}
+
+    Предположим решение в виде:
+    \begin{equation*}
+        E_x = \left\{
+            \begin{aligned}
+                E_0 \exp{-\alpha z} & z > 0;\\
+                E_0 \exp{\alpha z} & z < 0;
+            \end{aligned}
+        \right.;
+    \end{equation*}
+
+    Интегрируя в окрестности нуля получим граничное условие на на производные:
+    \begin{equation*}
+        \left.\frac{\partial E_x}{\partial z}\right\vert{}^{+0}_{-0} = \frac{4\pi i}{\varepsilon \omega}
+        \left(k^2  - \varepsilon \frac{\omega^2}{c^2}\right);
+    \end{equation*}
+
+    Отсюда можно получить дисперсионное соотношение для таких двумерных плазмонов:
+    \begin{equation}
+        \label{plasmons:disp}
+        k^2  = \varepsilon  \frac{\omega^2}{c^2} - \left(\frac{\varepsilon\omega}{2\pi \sigma}\right)^2;
+    \end{equation}
     
     \section{Дисперсионные соотношения плазмонов}
 
@@ -128,8 +200,8 @@
     \end{multline}
 
     Учитывая это выражение мы получаем формулу Линдхарда \ref{lindhard}. Обладая 
-    этим знанием сравнительно легко получить дисперсионное соотношение для плазмонов,
-    решая следующее уравнение:
+    этим знанием сравнительно легко получить дисперсионное соотношение для плазмонов
+    \ref{plasmons:disp}, решая следующее уравнение:
     \begin{equation}
         \label{plasmons:disp}
         \frac{1}{(2\pi)^2}\frac{\kappa^2}{\kappa^2_{pl}} = 

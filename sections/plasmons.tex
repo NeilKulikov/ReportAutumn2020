@@ -298,12 +298,10 @@
 
     Для того чтобы оценить, что действительно существует порог можно посмотреть на сводную диаграмму для семейства зависимостей $\Im \omega(\vec q)$
     (мнимой части дисперсионных соотношений) при постоянной концентрации электронов и изменяющейся концентрации дырок \ref{plasmon:6nm3neXnpim}.
-    Стоит отметить, что именно этот параметр определяет коэффициент поглощения $\alpha (\omega)= 2 \Im q (\omega)$ при $\omega \in \mathbb{R}$,
-    поскольку считая мнимую часть частоты малой  $\Re \omega \gg \Im \omega$ за счёт аналитическорго продолжения функции $q(\omega)$ можно получить: 
-    \begin{equation*}
-        q(\omega \in \mathbb{R}) \approx q(\Re \omega + i \Im \omega) \approx \underbrace{q(\Re \omega)}_{\Re q} + 
-            i \underbrace{\Im \omega \left.\frac{\partial q}{\partial \omega} \right\vert{}_{\Re \omega}}_{\alpha / 2  = \Im q};
-    \end{equation*}
+    Стоит отметить, что именно эта зависимость определяет коэффициент усиления/поглощения:
+    \begin{equation}
+        \alpha(\Re \omega (\vec q)) = -2 \Im \omega \Re \left(\frac{d\omega}{d\vec q}\right)^{-1};
+    \end{equation}
 
     \begin{figure}[h]
         \begin{minipage}[h]{1\textwidth}

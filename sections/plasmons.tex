@@ -58,12 +58,13 @@
         + \underbrace{\left(k^2  - \varepsilon \frac{\omega^2}{c^2}\right)}_{q^2} E_x;
     \end{equation}
 
-    Предположим решение в виде:
+    Предположим решение в виде спадающих от квантовой ямы экспонент
+    с волновым вектором $i\alpha$:
     \begin{equation*}
         E_x = \left\{
             \begin{aligned}
-                E_0 \exp{-\alpha z} & z > 0;\\
-                E_0 \exp{\alpha z} & z < 0;
+                E_0 \exp{-\alpha z} & &z > 0\\
+                E_0 \exp{\alpha z} & &z < 0
             \end{aligned}
         \right.;
     \end{equation*}
@@ -99,8 +100,6 @@
                 \varepsilon_m - \hbar \omega - \i \hbar \alpha}
                 \bra{\psi_{\vec k + \vec q,n}} \ket{\psi_{\vec k, m}};
     \end{equation}
-
-    Стоит отметить, что 
 
     Ленгмюровские колебания являются колебаниями поляризации. Таким
     образом они должны подчиняться уравнению связи поляризации и 
@@ -216,9 +215,16 @@
     численно удобнее решать это уравнение, задавая частоту и решая относительно 
     волнового вектора.
 
-    За счёт фононного вклада \cite{palik1998handbook} в диэлектрическую проницаемость 
-    это уравнение обладает двумя решениями, отвечающими "нижней" и "верхней" ветвям 
-    дисперсионного соотношения.
+    \begin{equation}
+        \label{plasmons:phonons}
+        \kappa_{ph}(\omega) = \left(
+            1 + \frac{\omega_L^2 - \omega_T^2}{\omega_T^2-\omega^2 + i \Gamma \omega}
+            \right);
+    \end{equation}
+
+    За счёт фононного вклада \cite{palik1998handbook} \ref{plasmons:phonons} в 
+    диэлектрическую проницаемость это уравнение обладает двумя решениями, 
+    отвечающими "нижней" и "верхней" ветвям дисперсионного соотношения.
 
     \section{Результаты расчёта спектра плазмонов}
 
@@ -268,6 +274,11 @@
 
     Для того чтобы оценить, что действительно существует порог можно посмотреть на сводную диаграмму для семейства зависимостей $\Im \omega(\vec q)$
     (мнимой части дисперсионных соотношений) при постоянной концентрации электронов и изменяющейся концентрации дырок \ref{plasmon:6nm3neXnpim}.
+    Стоит отметить, что именно этот параметр определяет коэффициент поглощения $\alpha = \Im q$ при $\Re \omega \gg \Im \omega$: 
+    \begin{equation*}
+        q(\Re \omega + i \Im \omega) \approx \underbrace{q(\Re \omega)}_{\Re q} + i \underbrace{\Im \omega \left.\frac{\partial q}{\partial \omega}
+            \right\vert{}_{\Re \omega}}_{\alpha  = \Im q};
+    \end{equation*}
 
     \begin{figure}[h]
         \begin{minipage}[h]{1\textwidth}
